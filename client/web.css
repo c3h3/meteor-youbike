@@ -1,0 +1,9 @@
+body {
+  padding-top: 80px;
+}
+
+.login-display-name {
+  color: #777;
+  display: none !important;
+  
+}
